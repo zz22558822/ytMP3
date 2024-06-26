@@ -21,3 +21,5 @@ ytMP3.txt → 放置下載網址
 https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe  
 https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z  
 https://www.7-zip.org/a/7z2407-extra.7z  
+
+## Releases 有打包完成的版本
