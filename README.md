@@ -7,14 +7,15 @@
 
 
 ## 檔案結構:
-driver → 驅動項目
-  └── 7z、ffmpeg、yt-dlp
-output → 下載位置
+driver/ → 驅動項目
+├── 7z/
+├── ffmpeg/
+└── yt-dlp/
+output/ → 下載位置
 Updata.py → 安裝或更新驅動項目(不含7z)
 ytMP3.py → 主下載程序
 ytMP3.txt → 放置下載網址
 錯誤連結.txt → 錯誤的網址紀錄
-
 
 ## 驅動項目(手動):
 https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
