@@ -18,6 +18,6 @@ ytMP3.txt → 放置下載網址
 錯誤連結.txt → 錯誤的網址紀錄  
 
 ## 驅動項目(手動):
-https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
-https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
-https://www.7-zip.org/a/7z2407-extra.7z
+https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe  
+https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z  
+https://www.7-zip.org/a/7z2407-extra.7z  
