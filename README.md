@@ -1,5 +1,8 @@
 # ytMP3 Youtube MP3 下載器
 
+![Updata cover](https://github.com/zz22558822/ytMP3/blob/main/img/Updata.png)
+![ytMP3 cover](https://github.com/zz22558822/ytMP3/blob/main/img/ytMP3.png)
+
 ## 使用方法:
 1. 先使用 Updata 更新驅動項目
 2. 把要下載的連結都放置在 ytMP3.txt 當中(多網址請換行)
